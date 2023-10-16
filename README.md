@@ -7,3 +7,6 @@
 1. En tercer lugar, comprobaremos el estado de lo que queremos subir usando el comando `git status`, si todo está correcto,
     usaremos el comando `git commit -m "Un mensaje que diga el cambio que se está realizando"` para hacer la primera subida al proyecto.
 1. Por último usaremos el comando `git push` para terminar de subir todos los cambios al repositorio.
+
+## ¿QUÉ HA SUCEDIDO AL AÑADIR EL .gitignore?
+Lo que ha sucedido es que al añadir dentro del .gitignore la carpeta *Reto_2*, está ignorando la misma cuando haces el git push.
