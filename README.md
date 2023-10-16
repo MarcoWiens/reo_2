@@ -1,5 +1,5 @@
 # RETO 2 
-## COMO SUBIR UN PROYECTO A GIT.
+## ¿COMO SUBIR UN PROYECTO A GIT?
 
 1. El primer paso será crear un proyecto git en local en el directorio donde vayamos a trabajar, usando el comando `git init`.
 1. En segundo lugar después de haber creado lo que queremos que tenga nuestro proyecto, ejecutaremos el comando `git add .` 
@@ -9,4 +9,5 @@
 1. Por último usaremos el comando `git push` para terminar de subir todos los cambios al repositorio.
 
 ## ¿QUÉ HA SUCEDIDO AL AÑADIR EL .gitignore?
-Lo que ha sucedido es que al añadir dentro del .gitignore la carpeta *Reto_2*, está ignorando la misma cuando haces el git push.
+Lo que ha sucedido es que al añadir dentro del .gitignore la carpeta **Reto_2**, está ignorando la misma cuando haces el git push.
+Con lo cual ahora en el repositorio no se va a ver la carpeta con las imágenes pero en el local si.
